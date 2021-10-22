@@ -47,6 +47,11 @@
 # 2019-01-24
 # By John Lucas ==> added auto-decline for "ARM64-based" items.
 #
+# 2021-10-21
+# By Jack Harvest ==> Started modifying Script
+#
+# 2021-10-21
+# By Jack Harvest ==> I plan on adding to this script to auto decline udpates that contain non EN-US languages.
 ##########################
 
 
